@@ -1,0 +1,18 @@
+{
+  "name": "twitch-followed-streams",
+  "version": "1.0.0",
+  "description": "Twitch followed streams with secure Node.js backend",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "cookie-parser": "^1.4.6",
+    "sqlite3": "^5.1.7"
+  },
+  "license": "MIT"
+}
