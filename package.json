@@ -11,8 +11,7 @@
     "express": "^4.17.1",
     "axios": "^0.27.2",
     "dotenv": "^16.0.0",
-    "cookie-parser": "^1.4.6",
-    "sqlite3": "^5.1.7"
+    "cookie-parser": "^1.4.6"
   },
   "license": "MIT"
 }
